@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4fc1b56-93fa-4e0b-81d0-d67685d8006f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/desafio 43ep12.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Academia StepFit.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1Z5R4oKHdzlUt1GI7iy6lo0D0aS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.desafio 58ep14">
+    <configuration name="desafio 58ep14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Desafio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio 58ep14.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio 59ep14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Desafio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio 59ep14.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio 60ep14  for" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Desafio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio 60ep14  for.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio 60ep14 while" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Desafio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio 60ep14 while.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio 61ep14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Desafio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio 61ep14.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.desafio 58ep14" />
+        <item itemvalue="Python.desafio 59ep14" />
+        <item itemvalue="Python.desafio 61ep14" />
+        <item itemvalue="Python.desafio 60ep14 while" />
+        <item itemvalue="Python.desafio 60ep14  for" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4fc1b56-93fa-4e0b-81d0-d67685d8006f" name="Default Changelist" comment="" />
+      <created>1584126779992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584126779992</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="266" y="27" width="800" height="693" key="#Intentions" timestamp="1584822126064">
+      <screen x="62" y="27" width="1218" height="693" />
+    </state>
+    <state x="266" y="27" width="800" height="693" key="#Intentions/62.27.1218.693@62.27.1218.693" timestamp="1584822126064" />
+    <state x="266" y="35" width="800" height="684" key="#Notifications" timestamp="1585482030966">
+      <screen x="62" y="27" width="1218" height="693" />
+    </state>
+    <state x="266" y="35" width="800" height="684" key="#Notifications/62.27.1218.693@62.27.1218.693" timestamp="1585482030966" />
+    <state x="330" y="27" width="671" height="693" key="#desafio_20ep08" timestamp="1584149831272">
+      <screen x="62" y="27" width="1218" height="693" />
+    </state>
+    <state x="330" y="27" width="671" height="693" key="#desafio_20ep08/62.27.1218.693@62.27.1218.693" timestamp="1584149831272" />
+    <state x="343" y="0" width="584" height="685" key="#desafio_59ep14" timestamp="1588392048052">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="343" y="0" width="584" height="685" key="#desafio_59ep14/0.0.1280.690@0.0.1280.690" timestamp="1588392048052" />
+    <state x="330" y="27" width="671" height="693" key="#teste_de_random" timestamp="1584149929320">
+      <screen x="62" y="27" width="1218" height="693" />
+    </state>
+    <state x="330" y="27" width="671" height="693" key="#teste_de_random/62.27.1218.693@62.27.1218.693" timestamp="1584149929320" />
+    <state width="1259" height="162" key="GridCell.Tab.0.bottom" timestamp="1589581577345">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1259" height="162" key="GridCell.Tab.0.bottom/0.0.1280.690@0.0.1280.690" timestamp="1589581577345" />
+    <state width="1195" height="503" key="GridCell.Tab.0.bottom/62.27.1218.693@62.27.1218.693" timestamp="1586521849831" />
+    <state width="1259" height="162" key="GridCell.Tab.0.center" timestamp="1589581577344">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1259" height="162" key="GridCell.Tab.0.center/0.0.1280.690@0.0.1280.690" timestamp="1589581577344" />
+    <state width="1195" height="503" key="GridCell.Tab.0.center/62.27.1218.693@62.27.1218.693" timestamp="1586521849830" />
+    <state width="1259" height="162" key="GridCell.Tab.0.left" timestamp="1589581577342">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1259" height="162" key="GridCell.Tab.0.left/0.0.1280.690@0.0.1280.690" timestamp="1589581577342" />
+    <state width="1195" height="503" key="GridCell.Tab.0.left/62.27.1218.693@62.27.1218.693" timestamp="1586521849830" />
+    <state width="1259" height="162" key="GridCell.Tab.0.right" timestamp="1589581577345">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1259" height="162" key="GridCell.Tab.0.right/0.0.1280.690@0.0.1280.690" timestamp="1589581577345" />
+    <state width="1195" height="503" key="GridCell.Tab.0.right/62.27.1218.693@62.27.1218.693" timestamp="1586521849831" />
+    <state x="95" y="0" width="982" height="690" key="SettingsEditor" timestamp="1589581482364">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="95" y="0" width="982" height="690" key="SettingsEditor/0.0.1280.690@0.0.1280.690" timestamp="1589581482364" />
+    <state x="152" y="27" width="1027" height="693" key="SettingsEditor/62.27.1218.693@62.27.1218.693" timestamp="1584150000894" />
+    <state width="498" height="447" key="SwitcherDM" timestamp="1584586084430">
+      <screen x="62" y="27" width="1218" height="693" />
+    </state>
+    <state width="498" height="447" key="SwitcherDM/62.27.1218.693@62.27.1218.693" timestamp="1584586084430" />
+    <state x="62" y="81" width="1208" height="591" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1584149886948">
+      <screen x="62" y="27" width="1218" height="693" />
+    </state>
+    <state x="62" y="81" width="1208" height="591" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/62.27.1218.693@62.27.1218.693" timestamp="1584149886948" />
+    <state x="334" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1586015441228">
+      <screen x="62" y="27" width="1218" height="693" />
+    </state>
+    <state x="334" y="41" width="672" height="678" key="search.everywhere.popup/62.27.1218.693@62.27.1218.693" timestamp="1586015441228" />
+    <state x="396" y="286" width="540" height="182" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1585489797116">
+      <screen x="62" y="27" width="1218" height="693" />
+    </state>
+    <state x="396" y="286" width="540" height="182" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/62.27.1218.693@62.27.1218.693" timestamp="1585489797116" />
+  </component>
+</project>

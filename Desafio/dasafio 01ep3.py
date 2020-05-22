@@ -1,0 +1,7 @@
+nome = input( 'OI! tudo bem, Qual é o seu nome ?')
+boas = ('Bem-vindo a nossa empressa')
+print(boas, nome)
+cpf = input('infome o seu CPF ?')
+nascimento = input('Data de nascimento?')
+confirmação = ('Você confirma essas informações ?')
+print(confirmação, 'Data=', nascimento, 'CPF =', cpf)

@@ -1,0 +1,5 @@
+data=input('Qual o dia do nascimento?')
+mes=input('Qual o mês ?')
+ano=input('Qual o ano?')
+meg=('Você nasceu em')
+print (meg, data, mes, ano)

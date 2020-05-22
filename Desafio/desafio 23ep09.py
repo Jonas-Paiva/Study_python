@@ -1,0 +1,7 @@
+n1 = (float(input('Digite um número de 0 a 9999:')))
+print('Analizando o número {}...'.format(n1))
+m = (n1//1000 % 10)
+c = (n1//100 % 10)
+d = (n1//10 % 10)
+u = (n1//1 % 10)
+print('Milhar {}\nCentena {}\nDezena {}\nUnidade {}'.format(m, c, d, u))

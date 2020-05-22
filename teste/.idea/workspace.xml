@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6400a65-06b4-4848-b9cd-07b216cda45b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="teste" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y5qxgGc1YmqATcwp7Hxksp8xCn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/../Desafio" />
+      <recent name="$PROJECT_DIR$/../Exercícios" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.desafio 20ep08">
+    <configuration name="dasafio 18ep08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="teste" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dasafio 18ep08.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio 17ep08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="teste" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio 17ep08.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio 19ep08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="teste" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Desafio" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Desafio/desafio 19ep08.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio 20ep08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="teste" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Desafio" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Desafio/desafio 20ep08.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio16ep08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="teste" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio16ep08.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.desafio 20ep08" />
+        <item itemvalue="Python.desafio 19ep08" />
+        <item itemvalue="Python.dasafio 18ep08" />
+        <item itemvalue="Python.desafio 17ep08" />
+        <item itemvalue="Python.desafio16ep08" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6400a65-06b4-4848-b9cd-07b216cda45b" name="Default Changelist" comment="" />
+      <created>1582243050346</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582243050346</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="448" y="120" width="416" height="528" key="FileChooserDialogImpl" timestamp="1584126763602">
+      <screen x="62" y="27" width="1218" height="693" />
+    </state>
+    <state x="448" y="120" width="416" height="528" key="FileChooserDialogImpl/62.27.1218.693@62.27.1218.693" timestamp="1584126763602" />
+    <state width="1195" height="266" key="GridCell.Tab.0.bottom" timestamp="1584126778907">
+      <screen x="62" y="27" width="1218" height="693" />
+    </state>
+    <state width="1195" height="266" key="GridCell.Tab.0.bottom/62.27.1218.693@62.27.1218.693" timestamp="1584126778907" />
+    <state width="1195" height="266" key="GridCell.Tab.0.center" timestamp="1584126778906">
+      <screen x="62" y="27" width="1218" height="693" />
+    </state>
+    <state width="1195" height="266" key="GridCell.Tab.0.center/62.27.1218.693@62.27.1218.693" timestamp="1584126778906" />
+    <state width="1195" height="266" key="GridCell.Tab.0.left" timestamp="1584126778904">
+      <screen x="62" y="27" width="1218" height="693" />
+    </state>
+    <state width="1195" height="266" key="GridCell.Tab.0.left/62.27.1218.693@62.27.1218.693" timestamp="1584126778904" />
+    <state width="1195" height="266" key="GridCell.Tab.0.right" timestamp="1584126778907">
+      <screen x="62" y="27" width="1218" height="693" />
+    </state>
+    <state width="1195" height="266" key="GridCell.Tab.0.right/62.27.1218.693@62.27.1218.693" timestamp="1584126778907" />
+    <state x="152" y="27" width="1027" height="693" key="SettingsEditor" timestamp="1582689822469">
+      <screen x="62" y="27" width="1218" height="693" />
+    </state>
+    <state x="152" y="27" width="1027" height="693" key="SettingsEditor/62.27.1218.693@62.27.1218.693" timestamp="1582689822469" />
+    <state width="498" height="447" key="SwitcherDM" timestamp="1582689891436">
+      <screen x="62" y="27" width="1218" height="693" />
+    </state>
+    <state width="498" height="447" key="SwitcherDM/62.27.1218.693@62.27.1218.693" timestamp="1582689891436" />
+    <state x="319" y="201" key="com.intellij.ide.util.TipDialog" timestamp="1582243298051">
+      <screen x="62" y="27" width="1218" height="693" />
+    </state>
+    <state x="319" y="201" key="com.intellij.ide.util.TipDialog/62.27.1218.693@62.27.1218.693" timestamp="1582243298051" />
+    <state x="334" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1582676180604">
+      <screen x="62" y="27" width="1218" height="693" />
+    </state>
+    <state x="334" y="41" width="672" height="678" key="search.everywhere.popup/62.27.1218.693@62.27.1218.693" timestamp="1582676180604" />
+  </component>
+</project>
